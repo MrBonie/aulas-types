@@ -1,2 +1,2 @@
 # TS
-Ex. de TS
+Ex. de TS da aula 
